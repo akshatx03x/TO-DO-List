@@ -41,9 +41,6 @@ Start development server:
 npm start
 
 
-App will be running at:
-👉 http://localhost:3000
-
 📂 Project Structure
 📦 todo-list
  ┣ 📂 src
